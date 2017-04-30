@@ -1,4 +1,13 @@
 <?php
+/***********************************************************
+README:
+
+FEEL free to use and modify this code as long as the author information below is kept intact
+
+Author name: Nan Ferrer
+Contact info: nanferrerdaas@gmail.com
+
+************************************************************/
 class MQL{
 
 	private $con;
