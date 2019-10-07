@@ -1,5 +1,5 @@
 <?php  
-//require '/usr/share/php/Composer/autoload.php';
+
 require 'mql.php';
 
 $connection = new MongoClient();
